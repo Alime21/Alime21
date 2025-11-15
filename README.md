@@ -1,16 +1,12 @@
-## Hi there 👋
+## Mobile Application with Java Labs - 2025 Spring Semester
 
-<!--
-**Alime21/Alime21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Weeks:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Week 1** — [Alime21/week1](https://github.com/Alime21/Week1) 
+- **Week 2** — [Alime21/week2](https://github.com/Alime21/Week2) 
+- **Week 3** — [Alime21/week3](https://github.com/Alime21/Week3)
+- **Week 4** — [Alime21/week4](https://github.com/Alime21/Week4) 
+- **Week 5** — [Alime21/week5](https://github.com/Alime21/Week5)
+- **Week 6** — [Alime21/week6](https://github.com/Alime21/Week6)
+- **Week 7** — [Alime21/week7](https://github.com/Alime21/Week7)
+- **Week 8** — [Alime21/week8](https://github.com/Alime21/WEEK8)
