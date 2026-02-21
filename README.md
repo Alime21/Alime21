@@ -10,3 +10,5 @@
 - **Week 6** — [Alime21/week6](https://github.com/Alime21/Week6)
 - **Week 7** — [Alime21/week7](https://github.com/Alime21/Week7)
 - **Week 8** — [Alime21/week8](https://github.com/Alime21/WEEK8)
+- **Week 10** - [Alime21/week10](https://github.com/Alime21/WEEK10)
+- **Week 11** - [Alime21/week11](https://github.com/Alime21/WEEK11)
