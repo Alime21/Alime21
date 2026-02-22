@@ -35,12 +35,7 @@ The core of the project relies on a **Polyglot Persistence** approach, choosing 
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alime21&show_icons=true&theme=radical&count_private=true)
-
----
-
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/alime-kilin%C3%A7-138328253/) | [Medium](https://medium.com/@alime3888)
+[LinkedIn](https://www.linkedin.com/in/alime-kilin%C3%A7-138328253/) |
 
 
