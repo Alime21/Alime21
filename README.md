@@ -38,4 +38,11 @@ The core of the project relies on a **Polyglot Persistence** approach, choosing 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/alime-kilin%C3%A7-138328253/) |
 
+---
+
+### ⚖️ License & Copyright
+© 2026 Alime KILINÇ. All Rights Reserved.
+
+*The architectural overview, system design details, and documentation written in this repository are the intellectual property of the author. You may not copy, reproduce, or distribute this text in your own profile or projects without explicit permission.*
+
 
