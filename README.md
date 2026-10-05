@@ -1,6 +1,6 @@
 # Hi, I'm Alime! 👋
 
-**💻 Junior Computer Engineering Student | Full-Stack Developer & System Architecture Enthusiast**
+**💻 Senior Computer Engineering Student | Full-Stack Developer & System Architecture Enthusiast**
 
 I focus on building end-to-end, scalable, and robust systems—ranging from user interfaces (Frontend/iOS) to background services (Backend) and database management. I don’t just write code; I love designing the "whole system" based on solid engineering principles.
 
